@@ -6,10 +6,10 @@ void main(){
     printf("Digite um numero ");
     scanf("%i",&a);
     if (a % 2 ==1){
-        printf("O número digitado e impar ");
+        printf("O numero digitado e impar ");
     }
     if (a % 2 == 0){
-        printf("O número digitado e par ");
+        printf("O numero digitado e par ");
     }
 system("pause");
 }
