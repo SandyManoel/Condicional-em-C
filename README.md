@@ -1,4 +1,4 @@
 # Condicional em C
 
-Impar ou par
+Testa se o número é impar ou par
  
